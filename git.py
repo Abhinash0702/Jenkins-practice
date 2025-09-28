@@ -1,1 +1,1 @@
-print("version 7")
+prin(version 7")
